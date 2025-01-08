@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"installpay","appId":"1:1026763579093:android:57d85804bc7f5c2cc3cc5c","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"installpay","configurations":{"android":"1:1026763579093:android:57d85804bc7f5c2cc3cc5c","ios":"1:1026763579093:ios:f8f57db6602cced7c3cc5c"}}}}}}

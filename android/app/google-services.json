@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026763579093",
+    "project_id": "installpay",
+    "storage_bucket": "installpay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026763579093:android:57d85804bc7f5c2cc3cc5c",
+        "android_client_info": {
+          "package_name": "com.example.installpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh9-L13vLlhK1MUvbrUBqsNAnKvFJHOnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
